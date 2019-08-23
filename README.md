@@ -44,12 +44,21 @@ $ npm start
       - redux store
     - Wrapper.js
       - wrapper for all routes in react
+      
+- controller
+    - for routes control
+    
+- models
+    - for define schema
 
 - public
     - contains static assets in express
 
 - routes
     - route handler for node application
+    
+- utils
+    - auth file (jwt)
 
 - views
     - for express templates
