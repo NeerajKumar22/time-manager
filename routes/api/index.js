@@ -6,4 +6,10 @@ router.get('/', function (req, res, next) {
   res.json({success: true, message: 'Welcome to Node APIs'});
 });
 
+router.get("/test", function(req, res, next) {
+  res.json({
+    success : true,
+    message : 'Welcome Neeraj' 
+  })
+})
 module.exports = router;
