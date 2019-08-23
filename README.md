@@ -1,18 +1,18 @@
-# react-node-boilerplate
-A simple boilerplate for creating full stack application in javascript using react for client side and node/express as backend for creating APIs. 
+# A Time-Manager applicatoin
+A simple time manager application for creating full stack application in javascript using react for client side and node/express as backend for creating APIs. 
 
 ## Quick Start
 
   The quickest way to get started with this boilerplate is to fork it into your own repo.
   Get into the root of the application
 
-```bash
-cd react-node-boilerplate/
+```zsh
+cd time-manager/
 ```
 
   Install dependencies:
 
-```bash
+```zsh
 $ npm install
 ```
 
