@@ -66,6 +66,9 @@ $ npm start
 - .babelrc
     - transpiler for react and ES6 codes
 
+- .env
+	- env file for secret key
+
 - .gitignore
     - ignore node_modules and bundles
   
