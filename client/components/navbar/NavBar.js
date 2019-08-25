@@ -7,8 +7,8 @@ const NavBar = () => {
   return (
     <div>
       <h1>NavBar Page</h1>
-      <Register />
-      <Login />
+      {/* <Register /> */}
+      {/* <Login /> */}
     </div>
   );
 }
