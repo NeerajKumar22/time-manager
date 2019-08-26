@@ -1,7 +1,6 @@
 import React from "react";
 
 import axios from "axios";
-import { interpreterDirective } from "@babel/types";
 
 
 class Register extends React.Component {
@@ -79,6 +78,7 @@ class Register extends React.Component {
     }
 
     render() {
+        const {email, password} = this.state;
         return (
             <div>
                 <div>
